@@ -10,9 +10,9 @@ import (
 )
 
 const (
-	server   = "imap.exmail.qq.com:993" //"imap.yeah.net:993"
-	username = "taojianyu@nstc.com.cn"  //"tjy@yeah.net"
-	password = "Windows9813"            //"890378" imap-mail.outlook.com:993 jy.tao@live.com 98132219
+	server   = "imap.yeah.net:993"
+	username = "tjy@yeah.net"
+	password = "xxxxxx"
 )
 
 func main() {
