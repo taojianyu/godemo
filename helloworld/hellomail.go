@@ -10,7 +10,7 @@ import (
 const (
 	server   = "imap.yeah.net:993"
 	username = "tjy@yeah.net"
-	password = "890378"
+	password = "xxxxxx"
 )
 
 func main() {
