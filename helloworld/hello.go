@@ -39,5 +39,4 @@ func main() {
 		28,
 	}
 	fmt.Printf("birth year=%d", p.birthYear())
-	html.
 }
