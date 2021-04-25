@@ -1,0 +1,4 @@
+this is a memo text
+测试汉字是否可以支持
+你好
+<p>换行
